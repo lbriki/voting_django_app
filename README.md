@@ -8,7 +8,7 @@ This is a simple Django-based web application that allows users to vote on vario
 ## Features
 
 - User-friendly interface for voting on categories.
-- Real-time updates of voting results.
+- Real-time updates of voting results using 3 chart .
 - Secure user authentication and authorization.
 - SQLite database for data storage.
 - Responsive design for mobile and desktop.
