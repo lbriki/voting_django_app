@@ -25,7 +25,7 @@ This is a simple Django-based web application that allows users to vote on vario
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/voting-app.git
+   git clone https://github.com/lbriki/voting_django_app.git
    ```
 
 2. Navigate to the project directory.
